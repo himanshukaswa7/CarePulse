@@ -72,7 +72,7 @@ const PatientForm = () => {
 					control={form.control}
 					name='email'
 					label='Email'
-					placeholder='example@rmqcreative.com'
+					placeholder='example@gmail.com'
 					iconSrc='/assets/icons/email.svg'
 					iconAlt='email'
 				/>
